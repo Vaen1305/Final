@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f49ef9e3890a2e4f9cdca474941b287
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BulletEnemyPrefab: {fileID: 8192968572370563030, guid: 099d79c130248004b906dd3c1a255fb4, type: 3}
+  - BulletEnemyPrefab2: {fileID: 1470543100865727515, guid: 33c338fe0d7c5514a88609e26c396140, type: 3}
+  - BulletEnemyPrefab3: {fileID: 5655029029278085673, guid: a8372d110a2346146a3d6e94d63546d6, type: 3}
+  - vidaboss: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
